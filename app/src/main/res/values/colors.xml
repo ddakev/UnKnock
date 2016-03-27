@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="backgroundMain">#7F304DA1</color>
+    <color name="backgroundPatSet">#7F00F77B</color>
+    <color name="indicatorCircle">#CCFF6464</color>
+    <color name="availableKnock">#404041</color>
+    <color name="usedKnock">#2DB34A</color>
+</resources>
